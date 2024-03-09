@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Va-ish-u/mernstack2.git/static/css/main.a4bbc1b5.css",
+    "main.js": "/Va-ish-u/mernstack2.git/static/js/main.12d558a8.js",
+    "static/js/453.031008eb.chunk.js": "/Va-ish-u/mernstack2.git/static/js/453.031008eb.chunk.js",
+    "index.html": "/Va-ish-u/mernstack2.git/index.html",
+    "main.a4bbc1b5.css.map": "/Va-ish-u/mernstack2.git/static/css/main.a4bbc1b5.css.map",
+    "main.12d558a8.js.map": "/Va-ish-u/mernstack2.git/static/js/main.12d558a8.js.map",
+    "453.031008eb.chunk.js.map": "/Va-ish-u/mernstack2.git/static/js/453.031008eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4bbc1b5.css",
+    "static/js/main.12d558a8.js"
+  ]
+}
